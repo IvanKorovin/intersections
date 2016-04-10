@@ -1,20 +1,3 @@
-/** 
-Как было на http://ain.ua/2016/02/23/634216
-"Чтобы попасть на курс, нужно выполнить тестовое задание. 
-По словам представителя «Котанов» Артема Сычева, тестовые задания можно решить,
-опираясь на базовые школьные знания и продвинутое умение гуглить."
-
-
-
-Так и сделал - гуглил! 
-
-Сделал, как указано в задании kottans-intersections.md 
- создать "... функцию intersect"
-
-*/
-
-
-
 
 // depends on jQuery for creating shallow copies of javascript objects - $.extend({}, object). Also for various utility functions like $.grep()
 // Author: Andrija Cajic, XEETech.com
